@@ -1,2 +1,2 @@
 # CppLibs
-C++Libraries
+ Collection of C++Libraries
